@@ -12,3 +12,4 @@ Mencoba Latihan Squash and Merge
 
 mencoba Melakukan Squash
 squash 1
+squesh 2
